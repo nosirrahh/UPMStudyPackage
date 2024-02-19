@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixIndexLoaded(["hel","sta","upd"]);

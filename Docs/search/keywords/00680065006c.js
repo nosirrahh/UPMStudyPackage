@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("hel",["Class"],[["HelloWorld",,[["Nosirrahh.UPMStudyPackage",,,,0,"File:Runtime/Scripts/HelloWorld.cs:Nosirrahh.UPMStudyPackage.HelloWorld","CSharpClass:Nosirrahh.UPMStudyPackage.HelloWorld"]]]]);
